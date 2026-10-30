@@ -1,0 +1,33 @@
+<resources>
+    <string name="tab_device">Dispositivo</string>
+    <string name="tab_files">Archivos locales</string>
+    <string name="tab_more">Más</string>
+    <string name="scan_connect">Escanear para conectar</string>
+    <string name="manual_connect">Conexión manual</string>
+    <string name="enter_preview">Acceder a la previsualización</string>
+    <string name="empty_local_files">No hay archivos locales</string>
+    <string name="refresh_local_files">Actualizar</string>
+    <string name="open_local_media">Abrir archivos</string>
+    <string name="local_media_initial">Las fotos y vídeos del teléfono se leen desde MediaStore de Android. Los archivos de la tarjeta de la cámara se muestran por separado en la vista en directo.</string>
+    <string name="loading_local_files">Leyendo archivos locales…</string>
+    <string name="local_files_permission">Android no concedió acceso al inventario. Usa Abrir archivos para seleccionar elementos concretos.</string>
+    <string name="local_files_unavailable">El inventario de archivos locales no está disponible en este dispositivo.</string>
+    <string name="local_files_count">Archivos locales: %1$d fotos · %2$d vídeos</string>
+    <string name="local_media_no_viewer">No hay una app que pueda abrir este archivo.</string>
+    <string name="more_permissions">Descripción de permisos</string>
+    <string name="more_feedback">Comentarios</string>
+    <string name="privacy_policy">Ver Política de privacidad</string>
+    <string name="select_camera">Seleccionar cámara</string>
+    <string name="scan_title">Escanear para conectar</string>
+    <string name="scan_placeholder">La pantalla de escaneo original usa Huawei ScanKit.</string>
+    <string name="version_label">versión: 1.0</string>
+    <string name="live_preview">Vista previa en vivo</string>
+    <string name="mode_video">Grabación</string>
+    <string name="mode_slow">Vídeo en cámara lenta</string>
+    <string name="mode_loop">Grabación en bucle</string>
+    <string name="mode_timelapse">Grabación time-lapse</string>
+    <string name="mode_photo">Tomar foto</string>
+    <string name="mode_auto_photo">Foto automática</string>
+    <string name="mode_burst">Modo ráfaga</string>
+    <string name="mode_timer_photo">Foto con temporizador</string>
+</resources>

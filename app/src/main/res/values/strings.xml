@@ -1,0 +1,33 @@
+<resources>
+    <string name="tab_device">Device</string>
+    <string name="tab_files">Local files</string>
+    <string name="tab_more">More</string>
+    <string name="scan_connect">Scan connection</string>
+    <string name="manual_connect">Manual connection</string>
+    <string name="enter_preview">Enter preview</string>
+    <string name="empty_local_files">No local files</string>
+    <string name="refresh_local_files">Refresh</string>
+    <string name="open_local_media">Open media</string>
+    <string name="local_media_initial">Local photos and videos are read from Android MediaStore. Camera SD card files are listed separately in the live camera view.</string>
+    <string name="loading_local_files">Reading local media…</string>
+    <string name="local_files_permission">Android did not grant access to local media. Use Open media to choose specific items.</string>
+    <string name="local_files_unavailable">Local media inventory is unavailable on this device.</string>
+    <string name="local_files_count">Local media: %1$d photos · %2$d videos</string>
+    <string name="local_media_no_viewer">No app can open this media item.</string>
+    <string name="more_permissions">Permission description</string>
+    <string name="more_feedback">Feedback</string>
+    <string name="privacy_policy">View Privacy Policy</string>
+    <string name="select_camera">Select camera</string>
+    <string name="scan_title">Scan connection</string>
+    <string name="scan_placeholder">The original scan screen uses Huawei ScanKit.</string>
+    <string name="version_label">version: 1.0</string>
+    <string name="live_preview">Live Preview</string>
+    <string name="mode_video">Recording</string>
+    <string name="mode_slow">Slow motion</string>
+    <string name="mode_loop">Loop recording</string>
+    <string name="mode_timelapse">Time-lapse recording</string>
+    <string name="mode_photo">Take photo</string>
+    <string name="mode_auto_photo">Automatic photo</string>
+    <string name="mode_burst">Continuous shooting</string>
+    <string name="mode_timer_photo">Timer photo</string>
+</resources>

@@ -1,0 +1,32 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'org.hdvcam.app'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'org.hdvcam.app'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '0.1.0'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation project(':core')
+    implementation project(':protocol-aw')
+    implementation project(':protocol-mstar01')
+    implementation project(':protocol-tutk')
+    implementation 'androidx.media3:media3-exoplayer-rtsp:1.11.1'
+    implementation 'androidx.media3:media3-ui:1.11.1'
+    implementation 'com.google.android.gms:play-services-code-scanner:16.1.0'
+    testImplementation 'junit:junit:4.13.2'
+}
